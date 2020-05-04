@@ -6,3 +6,5 @@ agregar cambio para source tree
 nuevo cambio para remover del stage
 
 cambio para push
+
+cambio para merge
