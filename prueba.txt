@@ -8,3 +8,5 @@ nuevo cambio para remover del stage
 cambio para push
 
 cambio para merge en sorcetree
+
+cambio merge 2
